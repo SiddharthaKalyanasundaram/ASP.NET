@@ -1,0 +1,15 @@
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.csproj.AssemblyReference.cache
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.AssemblyInfoInputs.cache
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.AssemblyInfo.cs
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.csproj.CoreCompileInputs.cache
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\bin\Debug\net6.0\PreprocessorDirectiveExample.exe
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\bin\Debug\net6.0\PreprocessorDirectiveExample.deps.json
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\bin\Debug\net6.0\PreprocessorDirectiveExample.runtimeconfig.json
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\bin\Debug\net6.0\PreprocessorDirectiveExample.dll
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\bin\Debug\net6.0\PreprocessorDirectiveExample.pdb
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.dll
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\refint\PreprocessorDirectiveExample.dll
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.pdb
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\PreprocessorDirectiveExample.genruntimeconfig.cache
+C:\Users\sidde\Projects\Practices\ASP.NET\PreprocessorDirectiveExample\PreprocessorDirectiveExample\obj\Debug\net6.0\ref\PreprocessorDirectiveExample.dll
